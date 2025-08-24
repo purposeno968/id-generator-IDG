@@ -3,7 +3,7 @@
 - [Core Logic](#core-logic)
 - [Initialize](#initialize)
 - [Program Flow](#program-flow)
-- [References/credits](#references/credits)
+- [References/credits](#referencescredits)
 
 ## Core Logic
 ![svg](id3.svg)
