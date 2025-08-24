@@ -1,3 +1,3 @@
 ![svg](idg.svg)
-![svg](idg1.svg)
+![svg](idg2.svg)
 
